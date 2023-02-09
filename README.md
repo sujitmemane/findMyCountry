@@ -5,7 +5,10 @@ A JavaScript project that allows you to fetch data about any country, simply by 
 To get started with this project, you will need to have basic knowledge of JavaScript and web development. You will also need a web browser and a code editor of your choice.
 # Installing
 To install this project on your local machine, simply clone the repository:
+```
 git clone https://github.com/[username]/country-data-fetcher.git
+```
+
 
 
 # Usage
