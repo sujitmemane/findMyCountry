@@ -6,7 +6,7 @@ To get started with this project, you will need to have basic knowledge of JavaS
 # Installing
 To install this project on your local machine, simply clone the repository:
 ```
-git clone https://github.com/[username]/country-data-fetcher.git
+git clone https://github.com/sujitmemane/findMyCountry.git
 ```
 
 
