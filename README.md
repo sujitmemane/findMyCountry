@@ -1,6 +1,8 @@
 # Country Data Fetcher
 A JavaScript project that allows you to fetch data about any country, simply by searching for its name.
  
+# DEMO
+[findMyCountry](https://findmycountryy.netlify.app/)
 # Getting Started
 To get started with this project, you will need to have basic knowledge of JavaScript and web development. You will also need a web browser and a code editor of your choice.
 # Installing
